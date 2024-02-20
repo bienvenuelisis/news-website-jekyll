@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    {% include seo.html %}
+
+    <!-- Webpage Title -->
+    <title>{{page.title}} | {{site.name}}</title>
+
+    {% include styles.html %}
+
+    {% include icons.html %}
+</head>
+
+<body data-spy="scroll" data-target=".fixed-top">
+
+{% include navbar.html %}
+
+{{ content }}
+
+{% include footer.html %}
+
+{% include copyright.html %}
+
+{% include scripts.html %}
+
+</body>
+
+</html>
