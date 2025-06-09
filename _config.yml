@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A partir votre blog, obtenez une application mobile moderne, 
   améliorez votre engagement et augmentez vos revenus.
 baseurl: "" # the subpath of your site.
-url: "https://news.theresilient.dev" # the base hostname & protocol for your site.
+url: "https://bienvenuelisis.github.io/news-website-jekyll/" # the base hostname & protocol for your site.
 
 # Build settings
 #theme: minima
