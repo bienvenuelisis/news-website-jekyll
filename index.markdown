@@ -31,7 +31,7 @@ description: A partir votre blog, obtenez une application mobile moderne, améli
             </div>
             <!-- end of col -->
             <div class="col-lg-6">
-                <img class="img-fluid" src="/assets/images/demos/presentation.png" alt="alternative">
+                <img class="img-fluid" src="assets/images/demos/presentation.png" alt="alternative">
             </div>
             <!-- end of col -->
         </div>
@@ -66,7 +66,7 @@ description: A partir votre blog, obtenez une application mobile moderne, améli
             <!-- end of col -->
             <div class="col-lg-6">
                 <div class="image-container">
-                    <img class="img-fluid" src="/assets/images/demos/action.png" alt="alternative">
+                    <img class="img-fluid" src="assets/images/demos/action.png" alt="alternative">
                 </div>
                 <!-- end of image-container -->
             </div>
@@ -92,7 +92,7 @@ description: A partir votre blog, obtenez une application mobile moderne, améli
                         <br><br> En quelques secondes, visualisez et configurer l'affichage de votre blog comme une 
                         application mobile native gràce à notre démo en ligne.
                     </p>
-                    <a style="background-color: teal;" class="btn-solid-reg" href="https://mynewsdemo.theresilient.dev/">
+                    <a style="background-color: teal;" class="btn-solid-reg" href="https://bienvenuelisis.github.io/flutter_cms_demo/">
                         Visualiser mon blog !
                     </a>
                 </div>
@@ -121,7 +121,7 @@ description: A partir votre blog, obtenez une application mobile moderne, améli
             <!-- end of col -->
             <div class="col-lg-6">
                 <div class="image-container">
-                    <img class="img-fluid" src="/assets/images/demos/action.png" alt="alternative">
+                    <img class="img-fluid" src="assets/images/demos/action.png" alt="alternative">
                 </div>
                 <!-- end of image-container -->
             </div>
@@ -214,7 +214,7 @@ description: A partir votre blog, obtenez une application mobile moderne, améli
                             <!-- end of icon cards pane -->
                             <!-- Image Pane -->
                             <div class="col-lg-4">
-                                <img style="margin: auto 0" class="img-fluid" src="/assets/images/demos/article_header.png" alt="alternative">
+                                <img style="margin: auto 0" class="img-fluid" src="assets/images/demos/article_header.png" alt="alternative">
                             </div>
                             <!-- end of col -->
                             <!-- end of image pane -->
@@ -279,7 +279,7 @@ description: A partir votre blog, obtenez une application mobile moderne, améli
                         <div class="row">
                             <!-- Image Pane -->
                             <div class="col-lg-4">
-                                <img class="img-fluid" src="/assets/images/demos/home_offline_dark.png"
+                                <img class="img-fluid" src="assets/images/demos/home_offline_dark.png"
                                      alt="alternative">
                             </div>
                             <!-- end of col -->
